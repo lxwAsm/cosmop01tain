@@ -1,6 +1,6 @@
 ## 教育经历
 
-1,通过英语四六级，大学期间未挂科。
+1,通过英语四六级。
 
 2,在校担任过信息安全协会副会长，协助举办校内CTF比赛。从比赛宣传，出题，讲解，培训学弟学妹过程中学到了很多经验以及知识。
 
@@ -9,13 +9,15 @@
 
 ## 参赛经历
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1.2018重庆市网络安全竞赛一等奖
 
-```markdown
-Syntax highlighted code block
+2.2017南宁市攻防大赛二等奖
+
+3.2018年全国大学生信息安全竞赛三等奖
+
 
 ## 专业技能
-
+```markdown
 - Bulleted
 - List
 
