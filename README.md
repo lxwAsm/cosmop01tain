@@ -23,11 +23,16 @@
 ## 个人项目
 
 [C++ xor加密](https://github.com/lxwAsm/myprojects/tree/master/C/xor)
+
 [CTF 逆向题目搜集](https://github.com/lxwAsm/CTF/tree/master/re)
 ## 自我评价
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lxwAsm/lxwhome/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```markdown
 
-### Support or Contact
+```
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact Me
+Email:3456319404@qq.com
+
+Phone:18581072055
+
