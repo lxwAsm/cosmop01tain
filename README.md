@@ -1,8 +1,8 @@
 ## 教育经历
 
-You can use the [editor on GitHub](https://github.com/lxwAsm/lxwhome/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+1,通过英语四六级，大学期间未挂科。
+2,在校担任过信息安全协会副会长，协助举办校内CTF比赛。从比赛宣传，出题，讲解，培训学弟学妹过程中学到了很多经验以及知识。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## 参赛经历
 
