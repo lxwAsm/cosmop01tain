@@ -2,10 +2,10 @@
 ```markdown
 1,通过英语四六级。
 
-2,在校担任过信息安全协会副会长，协助举办校内CTF比赛。从比赛宣传，出题，讲解，培训学弟学妹过程中学到了很多经验以及知识。
+2,在校担任过信息安全协会副会长，协助举办校内CTF比赛。从比赛宣传，出题，讲解，
+培训学弟学妹过程中学到了很多经验以及知识。
 
 ```
-
 
 ## 参赛经历
 ```markdown
@@ -18,11 +18,13 @@
 
 ## 专业技能
 ```markdown
-1.C/C++(80%),python(80%)
+1.C/C++(80%),python(80%),汇编(80%)
+2.C#(50%),java(50%)
 ```
+## 个人项目
+```markdown
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
+```
 ## 自我评价
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lxwAsm/lxwhome/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
