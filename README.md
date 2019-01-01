@@ -21,9 +21,9 @@
 2.C#(50%),java(50%)
 ```
 ## 个人项目
-```markdown
+
 [C++ xor加密](https://github.com/lxwAsm/myprojects/tree/master/C/xor)
-```
+
 ## 自我评价
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lxwAsm/lxwhome/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
