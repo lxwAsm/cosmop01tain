@@ -26,6 +26,8 @@
 [C++ xor加密](https://github.com/lxwAsm/myprojects/tree/master/C/xor)
 
 [CTF 逆向题目搜集](https://github.com/lxwAsm/CTF/tree/master/re)
+
+[C语言实现万年历](https://github.com/lxwAsm/myprojects/tree/master/c/calendar)
 ## 自我评价
 
 ```markdown
